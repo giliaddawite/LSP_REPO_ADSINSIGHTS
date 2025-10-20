@@ -1,0 +1,19 @@
+REFERENCES FOR LSP MIDTERM EXAM
+Student: Giliad Dawite
+Date: October 20, 2025
+
+===== AI TOOL USAGE =====
+Primary AI Tool: Claude (Anthropic AI Assistant)
+URL: https://claude.ai
+
+Usage Summary:
+- Reviewed Arthur Riel's OO design heuristics for cohesion analysis (Q1)
+- Verified Java method overloading syntax and exception handling (Q2)
+- Clarified Strategy Pattern and composition over inheritance (Q3)
+- Confirmed abstract class and interface implementation syntax (Q4)
+- No AI used for personal reflection (Q5)
+
+Sample Prompts:
+1. "Explain Arthur Riel's heuristics about class cohesion"
+2. "How does Java handle multiple interface implementation?"
+3. "Explain the Strategy Pattern for runtime behavior changes"
